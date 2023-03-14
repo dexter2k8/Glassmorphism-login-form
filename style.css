@@ -133,7 +133,7 @@ form .group a {
   text-decoration: none;
 }
 
-form .group a:nth-child(2) {
+form .group a:hover {
   text-decoration: underline;
 }
 
@@ -158,47 +158,47 @@ form .group a:nth-child(2) {
   pointer-events: none;
 }
 
-.leaves .set div {
+.leaves .set img {
   position: absolute;
   display: block;
 }
 
-.leaves .set div:nth-child(1) {
+.leaves .set img:nth-child(1) {
   left: 20%;
   animation: animate 20s linear infinite;
 }
 
-.leaves .set div:nth-child(2) {
+.leaves .set img:nth-child(2) {
   left: 50%;
   animation: animate 14s linear infinite;
 }
 
-.leaves .set div:nth-child(3) {
+.leaves .set img:nth-child(3) {
   left: 70%;
   animation: animate 12s linear infinite;
 }
 
-.leaves .set div:nth-child(4) {
+.leaves .set img:nth-child(4) {
   left: 5%;
   animation: animate 15s linear infinite;
 }
 
-.leaves .set div:nth-child(5) {
+.leaves .set img:nth-child(5) {
   left: 85%;
   animation: animate 18s linear infinite;
 }
 
-.leaves .set div:nth-child(6) {
+.leaves .set img:nth-child(6) {
   left: 90%;
   animation: animate 12s linear infinite;
 }
 
-.leaves .set div:nth-child(7) {
+.leaves .set img:nth-child(7) {
   left: 15%;
   animation: animate 14s linear infinite;
 }
 
-.leaves .set div:nth-child(8) {
+.leaves .set img:nth-child(8) {
   left: 60%;
   animation: animate 15s linear infinite;
 }
