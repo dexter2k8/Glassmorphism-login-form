@@ -9,6 +9,6 @@
 <p align="justify">
 Animated Glassmorphism Login Form using Html &amp; CSS
 
-![Page layout](https://user-images.githubusercontent.com/37356058/132422764-5a4e5300-7b04-4411-9126-387a445bc627.png)
+![Page layout](https://github.com/dexter2k8/Glassmorphism-login-form/blob/main/assets/page.gif)
 
 </p>
