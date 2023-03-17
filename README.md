@@ -1,7 +1,7 @@
 # Glassmorphism-login-form
 
 <p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIDO&color=RED&style=for-the-badge" #vitrinedev/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=JA%20DESENVOLVIDO&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
 
 ## Description
